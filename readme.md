@@ -86,7 +86,7 @@ The primary goal of Friends App is to provide a **private, community-driven plat
 
 ## 🎬 Demo Video
 
-👉 [Watch Demo Video](https://farooqalam.com/wp-content/uploads/2026/04/vid.mp4)
+👉 [Watch Demo Video](./assets/App_ScreenShot/vidGif.gif)
 
 
 ## 👨‍💻 Author
